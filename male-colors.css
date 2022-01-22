@@ -1,0 +1,102 @@
+.male.skin {
+  fill: #f0c7b1;
+}
+.male.neck-shadow,
+.male.skin-details {
+  fill: #d19271;
+}
+.male.neck-shadow {
+  opacity: 0.65;
+}
+.male.glasses-lens,
+.male.neck-shadow {
+  isolation: isolate;
+}
+.male.face-outline {
+  fill: #c27b55;
+}
+.male.shirt {
+  fill: #773838;
+}
+.male.shirt-outline {
+  fill: #581818;
+}
+.male.ear-outline {
+  fill: #e1ac8f;
+}
+.male.lips {
+  fill: #db7c88;
+}
+.male.teeth {
+  fill: #fff;
+}
+.male.inner-mouth {
+  fill: #010101;
+}
+.male.upperLips {
+  fill: #d36d7a;
+}
+.male.lips-outline {
+  fill: #cb5f6c;
+}
+.male.lips-details {
+  fill: #e8b9a0;
+}
+.male.lips-lowerOutline {
+  fill: #d09171;
+}
+.male.pupil-inside {
+  fill: #000;
+}
+.male.eyes,
+.male.glasses-details,
+.male.glasses-lens {
+  fill: #fff;
+}
+.male.pupil {
+  fill: #4e60a3;
+}
+.male.hair,
+.male.eyebrow {
+  fill: #2a232b;
+}
+.male.beard {
+  fill: #2b232b;
+}
+.male.beard-details {
+  fill: #1c161d;
+}
+.male.mustache {
+  fill: #2b232b;
+}
+.male.mustache-details {
+  fill: #1c161d;
+}
+.male.hair-details,
+.male.eyebrow-details {
+  fill: #3a353a;
+}
+.male.hair-outline,
+.male.eyebrow-outline {
+  fill: #1b141c;
+}
+.male.nose-details {
+  fill: #f8d5c3;
+}
+.male.glasses-lens {
+  opacity: 0.33;
+}
+.male.glasses-frame1 {
+  fill: #070201;
+}
+.male.glasses-frame2 {
+  fill: #26120b;
+}
+.male.glasses-details {
+  opacity: 0.5;
+}
+.male.glasses-details,
+.male.glasses-lens,
+.male.neck-shadow {
+  isolation: isolate;
+}

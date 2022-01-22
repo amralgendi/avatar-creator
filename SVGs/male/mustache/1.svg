@@ -1,0 +1,29 @@
+<?xml-stylesheet type="text/css" href="../../../../male-colors.css" ?>
+<svg
+                width="70"
+                height="70"
+                id="Layer_1"
+                data-name="Layer 1"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 600 600"
+              >
+                <g id="none">
+                  <rect
+                    class="male beard"
+                    x="273.42"
+                    y="143.48"
+                    width="53.17"
+                    height="313.05"
+                    transform="translate(-124.26 300) rotate(-45)"
+                  />
+                  <rect
+                    class="male beard"
+                    x="273.42"
+                    y="143.48"
+                    width="53.17"
+                    height="313.05"
+                    transform="translate(300 -124.26) rotate(45)"
+                  />
+                </g>
+                <g id="svga-group-mustache-single-move"></g>
+              </svg>

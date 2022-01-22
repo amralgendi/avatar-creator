@@ -1,0 +1,89 @@
+.female.background {
+  fill: #ecf0f1;
+}
+.female.skin {
+  fill: #f3d4cf;
+}
+.female.neck-shadow,
+.female.skin-details {
+  fill: #d4958a;
+}
+.female.neck-shadow {
+  opacity: 0.65;
+}
+.female.glasses-details,
+.female.glasses-lens,
+.female.neck-shadow {
+  isolation: isolate;
+}
+.female.face-outline {
+  fill: #c5796e;
+}
+.female.shirt {
+  fill: #09aac5;
+}
+.female.shirt-outline {
+  fill: #008fa6;
+}
+.female.ear-outline {
+  fill: #e4b3ab;
+}
+.female.lips {
+  fill: #db7c88;
+}
+.female.lips-outline {
+  fill: #cb5f6c;
+}
+.female.lips-details {
+  fill: #e99ca6;
+}
+.female.upperLips {
+  fill: #cb5f6c;
+}
+.female.eyes,
+.female.glasses-details,
+.female.glasses-lens {
+  fill: #fff;
+}
+.female.pupil {
+  fill: #4e60a3;
+}
+.female.hair {
+  fill: #2a232b;
+}
+.female.eyebrow {
+  fill: #2b232b;
+}
+.female.hair-details {
+  fill: #3a353a;
+}
+.female.eyebrow-details {
+  fill: #3b363b;
+}
+.female.eyebrow-outline {
+  fill: #1c161d;
+}
+.female.hair-outline {
+  fill: #1b141c;
+}
+.female.nose-details {
+  fill: #fae4e1;
+}
+.female.hairband {
+  fill: #010101;
+}
+.female.glasses-details {
+  opacity: 0.5;
+}
+.female.glasses-lens {
+  opacity: 0.27;
+}
+.female.glasses-frame1 {
+  fill: #070201;
+}
+.female.glasses-frame2 {
+  fill: #26120b;
+}
+.hidden {
+  display: none;
+}
